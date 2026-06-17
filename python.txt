@@ -3,4 +3,5 @@ Student Record Manager
 Completed:
 - Add student
 - View student
-xcvd
+xcvdScarch Student
+Delete Student 

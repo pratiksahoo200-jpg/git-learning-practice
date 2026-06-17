@@ -1,0 +1,6 @@
+Student Record Manager
+
+Completed:
+- Add student
+- View student
+xcvd
